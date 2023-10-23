@@ -1,6 +1,7 @@
 # Alex Egerev's Planner Refactor Webpage
 
-[insert images here]
+![image](https://github.com/upennbootcamp23/egerev_planner-website-refactor/assets/143010411/089b8498-7901-45e3-84ee-20777831d07a)
+
 
 ## Description
 
@@ -42,4 +43,4 @@ While I may have had some help from multiple sources (as listed below), I can as
 Please refer to the LICENSE in the repo.
 
 ## Deployment
-Link to the deployed website: 
+Link to the deployed website: https://upennbootcamp23.github.io/egerev_planner-website-refactor/
